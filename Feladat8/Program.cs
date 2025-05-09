@@ -5,6 +5,7 @@
         Console.Write("Kérem a mondatot: ");
         String mondat = Console.ReadLine();
         String[] szavak = mondat.Split(' ');
+        // ez a szép megoldás
         foreach (String s in szavak)
         {
 
