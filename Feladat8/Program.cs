@@ -6,6 +6,7 @@
         String mondat = Console.ReadLine();
         String[] szavak = mondat.Split(' ');
         // ez a szép megoldás
+        //na még egy kis változás
         foreach (String s in szavak)
         {
 
